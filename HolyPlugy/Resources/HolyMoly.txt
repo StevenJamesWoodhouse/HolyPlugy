@@ -1,0 +1,2855 @@
+{
+    "version": "1.1.0",
+    "grail": {
+        "uniques": {
+            "armor": {
+                "chest": {
+                    "normal": {
+                        "Greyform": {
+                            "wasFound": true
+                        },
+                        "Blinkbat's Form": {
+                            "wasFound": true
+                        },
+                        "The Centurion": {
+                            "wasFound": true
+                        },
+                        "Twitchthroe": {
+                            "wasFound": true
+                        },
+                        "Darkglow": {
+                            "wasFound": true
+                        },
+                        "Hawkmail": {
+                            "wasFound": true
+                        },
+                        "Venom Ward": {
+                            "wasFound": true
+                        },
+                        "Sparking Mail": {
+                            "wasFound": true
+                        },
+                        "Iceblink": {
+                            "wasFound": true
+                        },
+                        "Heavenly Garb": {
+                            "wasFound": true
+                        },
+                        "Rockfleece": {
+                            "wasFound": true
+                        },
+                        "Boneflesh": {
+                            "wasFound": true
+                        },
+                        "Rattlecage": {
+                            "wasFound": true
+                        },
+                        "Goldskin": {
+                            "wasFound": true
+                        },
+                        "Silks of the Victor": {
+                            "wasFound": true
+                        }
+                    },
+                    "exceptional": {
+                        "The Spirit Shroud": {
+                            "wasFound": true
+                        },
+                        "Skin of the Vipermagi": {
+                            "wasFound": true
+                        },
+                        "Skin of the Flayed One": {
+                            "wasFound": true
+                        },
+                        "Iron Pelt": {
+                            "wasFound": true
+                        },
+                        "Crow Caw": {
+                            "wasFound": true
+                        },
+                        "Spirit Forge": {
+                            "wasFound": true
+                        },
+                        "Duriel's Shell": {
+                            "wasFound": true
+                        },
+                        "Shaftstop": {
+                            "wasFound": true
+                        },
+                        "Skullder's Ire": {
+                            "wasFound": true
+                        },
+                        "Que-Hegan's Wisdom": {
+                            "wasFound": true
+                        },
+                        "Toothrow": {
+                            "wasFound": true
+                        },
+                        "Guardian Angel": {
+                            "wasFound": true
+                        },
+                        "Atma's Wail": {
+                            "wasFound": true
+                        },
+                        "Black Hades": {
+                            "wasFound": true
+                        },
+                        "Corpsemourn": {
+                            "wasFound": true
+                        }
+                    },
+                    "elite": {
+                        "Ormus' Robes": {
+                            "wasFound": true
+                        },
+                        "The Gladiator's Bane": {
+                            "wasFound": true
+                        },
+                        "Arkaine's Valor": {
+                            "wasFound": true
+                        },
+                        "Leviathan": {
+                            "wasFound": true
+                        },
+                        "Steel Carapace": {
+                            "wasFound": true
+                        },
+                        "Templar's Might": {
+                            "wasFound": true
+                        },
+                        "Tyrael's Might": {
+                            "wasFound": true
+                        }
+                    }
+                },
+                "helm": {
+                    "normal": {
+                        "Biggin's Bonnet": {
+                            "wasFound": true
+                        },
+                        "Tarnhelm": {
+                            "wasFound": true
+                        },
+                        "Coif of Glory": {
+                            "wasFound": true
+                        },
+                        "Duskdeep": {
+                            "wasFound": true
+                        },
+                        "Wormskull": {
+                            "wasFound": true
+                        },
+                        "Howltusk": {
+                            "wasFound": true
+                        },
+                        "Undead Crown": {
+                            "wasFound": true
+                        },
+                        "The Face of Horror": {
+                            "wasFound": true
+                        }
+                    },
+                    "exceptional": {
+                        "Peasant Crown": {
+                            "wasFound": true
+                        },
+                        "Rockstopper": {
+                            "wasFound": true
+                        },
+                        "Stealskull": {
+                            "wasFound": true
+                        },
+                        "Darksight Helm": {
+                            "wasFound": true
+                        },
+                        "Vampire Gaze": {
+                            "wasFound": true
+                        },
+                        "Valkyrie Wing": {
+                            "wasFound": true
+                        },
+                        "Crown of Thieves": {
+                            "wasFound": true
+                        },
+                        "Blackhorn's Face": {
+                            "wasFound": true
+                        }
+                    },
+                    "elite": {
+                        "Andariel's Visage": {
+                            "wasFound": true
+                        },
+                        "Crown of Ages": {
+                            "wasFound": true
+                        },
+                        "Giant Skull": {
+                            "wasFound": true
+                        },
+                        "Harlequin Crest": {
+                            "wasFound": true
+                        },
+                        "Nightwing's Veil": {
+                            "wasFound": true
+                        },
+                        "Steel Shade": {
+                            "wasFound": true
+                        },
+                        "Veil of Steel": {
+                            "wasFound": true
+                        }
+                    }
+                },
+                "circlet": {
+                    "elite": {
+                        "Kira's Guardian": {
+                            "wasFound": true
+                        },
+                        "Griffon's Eye": {
+                            "wasFound": true
+                        }
+                    }
+                },
+                "gloves": {
+                    "normal": {
+                        "The Hand of Broc": {
+                            "wasFound": true
+                        },
+                        "Bloodfist": {
+                            "wasFound": true
+                        },
+                        "Chance Guards": {
+                            "wasFound": true
+                        },
+                        "Magefist": {
+                            "wasFound": true
+                        },
+                        "Frostburn": {
+                            "wasFound": true
+                        }
+                    },
+                    "exceptional": {
+                        "Venom Grip": {
+                            "wasFound": true
+                        },
+                        "Gravepalm": {
+                            "wasFound": true
+                        },
+                        "Ghoulhide": {
+                            "wasFound": true
+                        },
+                        "Lava Gout": {
+                            "wasFound": true
+                        },
+                        "Hellmouth": {
+                            "wasFound": true
+                        }
+                    },
+                    "elite": {
+                        "Dracul's Grasp": {
+                            "wasFound": true
+                        },
+                        "Soul Drainer": {
+                            "wasFound": true
+                        },
+                        "Steelrend": {
+                            "wasFound": true
+                        }
+                    }
+                },
+                "belts": {
+                    "normal": {
+                        "Lenymo": {
+                            "wasFound": true
+                        },
+                        "Snakecord": {
+                            "wasFound": true
+                        },
+                        "Nightsmoke": {
+                            "wasFound": true
+                        },
+                        "Goldwrap": {
+                            "wasFound": true
+                        },
+                        "Bladebuckle": {
+                            "wasFound": true
+                        }
+                    },
+                    "exceptional": {
+                        "String of Ears": {
+                            "wasFound": true
+                        },
+                        "Razortail": {
+                            "wasFound": true
+                        },
+                        "Gloom's Trap": {
+                            "wasFound": true
+                        },
+                        "Snowclash": {
+                            "wasFound": true
+                        },
+                        "Thundergod's Vigor": {
+                            "wasFound": true
+                        }
+                    },
+                    "elite": {
+                        "Arachnid Mesh": {
+                            "wasFound": true
+                        },
+                        "Nosferatu's Coil": {
+                            "wasFound": true
+                        },
+                        "Verdungo's Hearty Cord": {
+                            "wasFound": true
+                        }
+                    }
+                },
+                "boots": {
+                    "normal": {
+                        "Hotspur": {
+                            "wasFound": true
+                        },
+                        "Gorefoot": {
+                            "wasFound": true
+                        },
+                        "Treads of Cthon": {
+                            "wasFound": true
+                        },
+                        "Goblin Toe": {
+                            "wasFound": true
+                        },
+                        "Tearhaunch": {
+                            "wasFound": true
+                        }
+                    },
+                    "exceptional": {
+                        "Infernostride": {
+                            "wasFound": true
+                        },
+                        "Waterwalk": {
+                            "wasFound": true
+                        },
+                        "Silkweave": {
+                            "wasFound": true
+                        },
+                        "War Traveler": {
+                            "wasFound": true
+                        },
+                        "Gore Rider": {
+                            "wasFound": true
+                        }
+                    },
+                    "elite": {
+                        "Marrowwalk": {
+                            "wasFound": true
+                        },
+                        "Sandstorm Trek": {
+                            "wasFound": true
+                        },
+                        "Shadow Dancer": {
+                            "wasFound": true
+                        }
+                    }
+                },
+                "shields": {
+                    "normal": {
+                        "Pelta Lunata": {
+                            "wasFound": true
+                        },
+                        "Umbral Disk": {
+                            "wasFound": true
+                        },
+                        "Stormguild": {
+                            "wasFound": true
+                        },
+                        "Swordback Hold": {
+                            "wasFound": true
+                        },
+                        "Steelclash": {
+                            "wasFound": true
+                        },
+                        "Wall of the Eyeless": {
+                            "wasFound": true
+                        },
+                        "Bverrit Keep": {
+                            "wasFound": true
+                        },
+                        "The Ward": {
+                            "wasFound": true
+                        }
+                    },
+                    "exceptional": {
+                        "Visceratuant": {
+                            "wasFound": true
+                        },
+                        "Moser's Blessed Circle": {
+                            "wasFound": true
+                        },
+                        "Stormchaser": {
+                            "wasFound": true
+                        },
+                        "Lance Guard": {
+                            "wasFound": true
+                        },
+                        "Tiamat's Rebuke": {
+                            "wasFound": true
+                        },
+                        "Lidless Wall": {
+                            "wasFound": true
+                        },
+                        "Gerke's Sanctuary": {
+                            "wasFound": true
+                        },
+                        "Radament's Sphere": {
+                            "wasFound": true
+                        }
+                    },
+                    "elite": {
+                        "Blackoak Shield": {
+                            "wasFound": true
+                        },
+                        "Stormshield": {
+                            "wasFound": true
+                        },
+                        "Head Hunter's Glory": {
+                            "wasFound": true
+                        },
+                        "Medusa's Gaze": {
+                            "wasFound": true
+                        },
+                        "Spike Thorn": {
+                            "wasFound": true
+                        },
+                        "Spirit Ward": {
+                            "wasFound": true
+                        }
+                    }
+                }
+            },
+            "weapons": {
+                "axe (1-h)": {
+                    "normal": {
+                        "The Gnasher": {
+                            "wasFound": true
+                        },
+                        "Deathspade": {
+                            "wasFound": true
+                        },
+                        "Bladebone": {
+                            "wasFound": true
+                        },
+                        "Skull Splitter": {
+                            "wasFound": true
+                        },
+                        "Rakescar": {
+                            "wasFound": true
+                        }
+                    },
+                    "exceptional": {
+                        "Coldkill": {
+                            "wasFound": true
+                        },
+                        "Butcher's Pupil": {
+                            "wasFound": true
+                        },
+                        "Islestrike": {
+                            "wasFound": true
+                        },
+                        "Pompeii's Wrath": {
+                            "wasFound": true
+                        },
+                        "Guardian Naga": {
+                            "wasFound": true
+                        }
+                    },
+                    "elite": {
+                        "Razor's Edge": {
+                            "wasFound": true
+                        },
+                        "Rune Master": {
+                            "wasFound": true
+                        },
+                        "Cranebeak": {
+                            "wasFound": true
+                        },
+                        "Death Cleaver": {
+                            "wasFound": true
+                        }
+                    }
+                },
+                "axe (2-h)": {
+                    "normal": {
+                        "Axe of Fechmar": {
+                            "wasFound": true
+                        },
+                        "Goreshovel": {
+                            "wasFound": true
+                        },
+                        "The Chieftain": {
+                            "wasFound": true
+                        },
+                        "Brainhew": {
+                            "wasFound": true
+                        },
+                        "Humongous": {
+                            "wasFound": true
+                        }
+                    },
+                    "exceptional": {
+                        "Warlord's Trust": {
+                            "wasFound": true
+                        },
+                        "Spellsteel": {
+                            "wasFound": true
+                        },
+                        "Stormrider": {
+                            "wasFound": true
+                        },
+                        "Boneslayer Blade": {
+                            "wasFound": true
+                        },
+                        "The Minotaur": {
+                            "wasFound": true
+                        }
+                    },
+                    "elite": {
+                        "Ethereal Edge": {
+                            "wasFound": true
+                        },
+                        "Hellslayer": {
+                            "wasFound": true
+                        },
+                        "Messerschmidt's Reaver": {
+                            "wasFound": true
+                        },
+                        "Executioner's Justice": {
+                            "wasFound": true
+                        }
+                    }
+                },
+                "bow": {
+                    "normal": {
+                        "Pluckeye": {
+                            "wasFound": true
+                        },
+                        "Witherstring": {
+                            "wasFound": true
+                        },
+                        "Raven Claw": {
+                            "wasFound": true
+                        },
+                        "Rogue's Bow": {
+                            "wasFound": true
+                        },
+                        "Stormstrike": {
+                            "wasFound": true
+                        },
+                        "Wizendraw": {
+                            "wasFound": true
+                        },
+                        "Hellclap": {
+                            "wasFound": true
+                        },
+                        "Blastbark": {
+                            "wasFound": true
+                        }
+                    },
+                    "exceptional": {
+                        "Skystrike": {
+                            "wasFound": true
+                        },
+                        "Riphook": {
+                            "wasFound": true
+                        },
+                        "Kuko Shakaku": {
+                            "wasFound": true
+                        },
+                        "Endlesshail": {
+                            "wasFound": true
+                        },
+                        "Witchwild String": {
+                            "wasFound": true
+                        },
+                        "Cliffkiller": {
+                            "wasFound": true
+                        },
+                        "Magewrath": {
+                            "wasFound": true
+                        },
+                        "Goldstrike Arch": {
+                            "wasFound": true
+                        }
+                    },
+                    "elite": {
+                        "Widowmaker": {
+                            "wasFound": true
+                        },
+                        "Eaglehorn": {
+                            "wasFound": true
+                        },
+                        "Windforce": {
+                            "wasFound": true
+                        }
+                    }
+                },
+                "crossbow": {
+                    "normal": {
+                        "Leadcrow": {
+                            "wasFound": true
+                        },
+                        "Ichorsting": {
+                            "wasFound": true
+                        },
+                        "Hellcast": {
+                            "wasFound": true
+                        },
+                        "Doomslinger": {
+                            "wasFound": true
+                        }
+                    },
+                    "exceptional": {
+                        "Langer Briser": {
+                            "wasFound": true
+                        },
+                        "Pus Spitter": {
+                            "wasFound": true
+                        },
+                        "Buriza-Do Kyanon": {
+                            "wasFound": true
+                        },
+                        "Demon Machine": {
+                            "wasFound": true
+                        }
+                    },
+                    "elite": {
+                        "Gut Siphon": {
+                            "wasFound": true
+                        },
+                        "Hellrack": {
+                            "wasFound": true
+                        }
+                    }
+                },
+                "dagger": {
+                    "normal": {
+                        "Gull": {
+                            "wasFound": true
+                        },
+                        "The Diggler": {
+                            "wasFound": true
+                        },
+                        "The Jade Tan Do": {
+                            "wasFound": true
+                        },
+                        "Spectral Shard": {
+                            "wasFound": true
+                        }
+                    },
+                    "exceptional": {
+                        "Spineripper": {
+                            "wasFound": true
+                        },
+                        "Heart Carver": {
+                            "wasFound": true
+                        },
+                        "Blackbog's Sharp": {
+                            "wasFound": true
+                        },
+                        "Stormspike": {
+                            "wasFound": true
+                        }
+                    },
+                    "elite": {
+                        "Fleshripper": {
+                            "wasFound": true
+                        },
+                        "Ghostflame": {
+                            "wasFound": true
+                        },
+                        "Wizardspike": {
+                            "wasFound": true
+                        }
+                    }
+                },
+                "clubs (1-h)": {
+                    "normal": {
+                        "Felloak": {
+                            "wasFound": true
+                        },
+                        "Stoutnail": {
+                            "wasFound": true
+                        },
+                        "Crushflange": {
+                            "wasFound": true
+                        },
+                        "Bloodrise": {
+                            "wasFound": true
+                        },
+                        "The General's Tan Do Li Ga": {
+                            "wasFound": true
+                        },
+                        "Ironstone": {
+                            "wasFound": true
+                        }
+                    },
+                    "exceptional": {
+                        "Dark Clan Crusher": {
+                            "wasFound": true
+                        },
+                        "Fleshrender": {
+                            "wasFound": true
+                        },
+                        "Sureshrill Frost": {
+                            "wasFound": true
+                        },
+                        "Moonfall": {
+                            "wasFound": true
+                        },
+                        "Baezil's Vortex": {
+                            "wasFound": true
+                        },
+                        "Earthshaker": {
+                            "wasFound": true
+                        }
+                    },
+                    "elite": {
+                        "Nord's Tenderizer": {
+                            "wasFound": true
+                        },
+                        "Baranar's Star": {
+                            "wasFound": true
+                        },
+                        "Demon Limb": {
+                            "wasFound": true
+                        },
+                        "Stormlash": {
+                            "wasFound": true
+                        },
+                        "Horizon's Tornado": {
+                            "wasFound": true
+                        },
+                        "Stone Crusher": {
+                            "wasFound": true
+                        },
+                        "Schaefer's Hammer": {
+                            "wasFound": true
+                        }
+                    }
+                },
+                "clubs (2-h)": {
+                    "normal": {
+                        "Bonesnap": {
+                            "wasFound": true
+                        },
+                        "Steeldriver": {
+                            "wasFound": true
+                        }
+                    },
+                    "exceptional": {
+                        "Bloodtree Stump": {
+                            "wasFound": true
+                        },
+                        "The Gavel of Pain": {
+                            "wasFound": true
+                        }
+                    },
+                    "elite": {
+                        "Windhammer": {
+                            "wasFound": true
+                        },
+                        "Earth Shifter": {
+                            "wasFound": true
+                        },
+                        "The Cranium Basher": {
+                            "wasFound": true
+                        }
+                    }
+                },
+                "polearms": {
+                    "normal": {
+                        "Dimoak's Hew": {
+                            "wasFound": true
+                        },
+                        "Steelgoad": {
+                            "wasFound": true
+                        },
+                        "Soul Harvest": {
+                            "wasFound": true
+                        },
+                        "The Battlebranch": {
+                            "wasFound": true
+                        },
+                        "Woestave": {
+                            "wasFound": true
+                        },
+                        "The Grim Reaper": {
+                            "wasFound": true
+                        }
+                    },
+                    "exceptional": {
+                        "The Meat Scraper": {
+                            "wasFound": true
+                        },
+                        "Blackleach Blade": {
+                            "wasFound": true
+                        },
+                        "Athena's Wrath": {
+                            "wasFound": true
+                        },
+                        "Pierre Tombale Couant": {
+                            "wasFound": true
+                        },
+                        "Husoldal Evo": {
+                            "wasFound": true
+                        },
+                        "Grim's Burning Dead": {
+                            "wasFound": true
+                        }
+                    },
+                    "elite": {
+                        "Bonehew": {
+                            "wasFound": true
+                        },
+                        "The Reaper's Toll": {
+                            "wasFound": true
+                        },
+                        "Tomb Reaver": {
+                            "wasFound": true
+                        },
+                        "Stormspire": {
+                            "wasFound": true
+                        }
+                    }
+                },
+                "scepters": {
+                    "normal": {
+                        "Knell Striker": {
+                            "wasFound": true
+                        },
+                        "Rusthandle": {
+                            "wasFound": true
+                        },
+                        "Stormeye": {
+                            "wasFound": true
+                        }
+                    },
+                    "exceptional": {
+                        "Zakarum's Hand": {
+                            "wasFound": true
+                        },
+                        "The Fetid Sprinkler": {
+                            "wasFound": true
+                        },
+                        "Hand of Blessed Light": {
+                            "wasFound": true
+                        }
+                    },
+                    "elite": {
+                        "Astreon's Iron Ward": {
+                            "wasFound": true
+                        },
+                        "Heaven's Light": {
+                            "wasFound": true
+                        },
+                        "The Redeemer": {
+                            "wasFound": true
+                        }
+                    }
+                },
+                "spears": {
+                    "normal": {
+                        "The Dragon Chang": {
+                            "wasFound": true
+                        },
+                        "Razortine": {
+                            "wasFound": true
+                        },
+                        "Bloodthief": {
+                            "wasFound": true
+                        },
+                        "Lance of Yaggai": {
+                            "wasFound": true
+                        },
+                        "The Tannr Gorerod": {
+                            "wasFound": true
+                        }
+                    },
+                    "exceptional": {
+                        "The Impaler": {
+                            "wasFound": true
+                        },
+                        "Kelpie Snare": {
+                            "wasFound": true
+                        },
+                        "Soulfeast Tine": {
+                            "wasFound": true
+                        },
+                        "Hone Sundan": {
+                            "wasFound": true
+                        },
+                        "Spire of Honor": {
+                            "wasFound": true
+                        }
+                    },
+                    "elite": {
+                        "Arioc's Needle": {
+                            "wasFound": true
+                        },
+                        "Steel Pillar": {
+                            "wasFound": true
+                        },
+                        "Viperfork": {
+                            "wasFound": true
+                        }
+                    }
+                },
+                "staves": {
+                    "normal": {
+                        "Bane Ash": {
+                            "wasFound": true
+                        },
+                        "Serpent Lord": {
+                            "wasFound": true
+                        },
+                        "Spire of Lazarus": {
+                            "wasFound": true
+                        },
+                        "The Salamander": {
+                            "wasFound": true
+                        },
+                        "The Iron Jang Bong": {
+                            "wasFound": true
+                        }
+                    },
+                    "exceptional": {
+                        "Razorswitch": {
+                            "wasFound": true
+                        },
+                        "Ribcracker": {
+                            "wasFound": true
+                        },
+                        "Chromatic Ire": {
+                            "wasFound": true
+                        },
+                        "Warpspear": {
+                            "wasFound": true
+                        },
+                        "Skull Collector": {
+                            "wasFound": true
+                        }
+                    },
+                    "elite": {
+                        "Mang Song's Lesson": {
+                            "wasFound": true
+                        },
+                        "Ondal's Wisdom": {
+                            "wasFound": true
+                        }
+                    }
+                },
+                "swords (1-h)": {
+                    "normal": {
+                        "Rixot's Keen": {
+                            "wasFound": true
+                        },
+                        "Blood Crescent": {
+                            "wasFound": true
+                        },
+                        "Skewer of Krintiz": {
+                            "wasFound": true
+                        },
+                        "Gleamscythe": {
+                            "wasFound": true
+                        },
+                        "Griswold's Edge": {
+                            "wasFound": true
+                        },
+                        "Hellplague": {
+                            "wasFound": true
+                        },
+                        "Culwen's Point": {
+                            "wasFound": true
+                        }
+                    },
+                    "exceptional": {
+                        "Bloodletter": {
+                            "wasFound": true
+                        },
+                        "Coldsteel Eye": {
+                            "wasFound": true
+                        },
+                        "Hexfire": {
+                            "wasFound": true
+                        },
+                        "Blade of Ali Baba": {
+                            "wasFound": true
+                        },
+                        "Ginther's Rift": {
+                            "wasFound": true
+                        },
+                        "Headstriker": {
+                            "wasFound": true
+                        },
+                        "Plague Bearer": {
+                            "wasFound": true
+                        },
+                        "The Atlantean": {
+                            "wasFound": true
+                        }
+                    },
+                    "elite": {
+                        "Azurewrath": {
+                            "wasFound": true
+                        },
+                        "Bloodmoon": {
+                            "wasFound": true
+                        },
+                        "Djinn Slayer": {
+                            "wasFound": true
+                        },
+                        "Frostwind": {
+                            "wasFound": true
+                        },
+                        "Lightsabre": {
+                            "wasFound": true
+                        }
+                    }
+                },
+                "swords (2-h)": {
+                    "normal": {
+                        "Shadowfang": {
+                            "wasFound": true
+                        },
+                        "Soulflay": {
+                            "wasFound": true
+                        },
+                        "Kinemil's Awl": {
+                            "wasFound": true
+                        },
+                        "Blacktongue": {
+                            "wasFound": true
+                        },
+                        "Ripsaw": {
+                            "wasFound": true
+                        },
+                        "The Patriarch": {
+                            "wasFound": true
+                        }
+                    },
+                    "exceptional": {
+                        "Crainte Vomir": {
+                            "wasFound": true
+                        },
+                        "Bing Sz Wang": {
+                            "wasFound": true
+                        },
+                        "The Vile Husk": {
+                            "wasFound": true
+                        },
+                        "Cloudcrack": {
+                            "wasFound": true
+                        },
+                        "Todesfaelle Flamme": {
+                            "wasFound": true
+                        },
+                        "Swordguard": {
+                            "wasFound": true
+                        }
+                    },
+                    "elite": {
+                        "Flamebellow": {
+                            "wasFound": true
+                        },
+                        "Doombringer": {
+                            "wasFound": true
+                        },
+                        "The Grandfather": {
+                            "wasFound": true
+                        }
+                    }
+                },
+                "wands": {
+                    "normal": {
+                        "Torch of Iro": {
+                            "wasFound": true
+                        },
+                        "Maelstrom": {
+                            "wasFound": true
+                        },
+                        "Gravenspine": {
+                            "wasFound": true
+                        },
+                        "Ume's Lament": {
+                            "wasFound": true
+                        }
+                    },
+                    "exceptional": {
+                        "Suicide Branch": {
+                            "wasFound": true
+                        },
+                        "Carin Shard": {
+                            "wasFound": true
+                        },
+                        "Arm of King Leoric": {
+                            "wasFound": true
+                        },
+                        "Blackhand Key": {
+                            "wasFound": true
+                        }
+                    },
+                    "elite": {
+                        "Boneshade": {
+                            "wasFound": true
+                        },
+                        "Death's Web": {
+                            "wasFound": true
+                        }
+                    }
+                },
+                "throwing": {
+                    "exceptional": {
+                        "Deathbit": {
+                            "wasFound": true
+                        },
+                        "The Scalper": {
+                            "wasFound": true
+                        }
+                    },
+                    "elite": {
+                        "Gimmershred": {
+                            "wasFound": true
+                        },
+                        "Lacerator": {
+                            "wasFound": true
+                        },
+                        "Warshrike": {
+                            "wasFound": true
+                        },
+                        "Demon's Arch": {
+                            "wasFound": true
+                        },
+                        "Wraith Flight": {
+                            "wasFound": true
+                        },
+                        "Gargoyle's Bite": {
+                            "wasFound": true
+                        }
+                    }
+                }
+            },
+            "other": {
+                "jewelry": {
+                    "rings": {
+                        "Nagelring": {
+                            "wasFound": true
+                        },
+                        "Manald Heal": {
+                            "wasFound": true
+                        },
+                        "Stone of Jordan": {
+                            "wasFound": true
+                        },
+                        "Dwarf Star": {
+                            "wasFound": true
+                        },
+                        "Raven Frost": {
+                            "wasFound": true
+                        },
+                        "Bul-Kathos' Wedding Band": {
+                            "wasFound": true
+                        },
+                        "Carrion Wind": {
+                            "wasFound": true
+                        },
+                        "Nature's Peace": {
+                            "wasFound": true
+                        },
+                        "Wisp Projector": {
+                            "wasFound": true
+                        }
+                    },
+                    "amulets": {
+                        "Nokozan Relic": {
+                            "wasFound": true
+                        },
+                        "The Eye of Etlich": {
+                            "wasFound": true
+                        },
+                        "The Mahim-Oak Curio": {
+                            "wasFound": true
+                        },
+                        "Saracen's Chance": {
+                            "wasFound": true
+                        },
+                        "The Cat's Eye": {
+                            "wasFound": true
+                        },
+                        "The Rising Sun": {
+                            "wasFound": true
+                        },
+                        "Crescent Moon": {
+                            "wasFound": true
+                        },
+                        "Atma's Scarab": {
+                            "wasFound": true
+                        },
+                        "Highlord's Wrath": {
+                            "wasFound": true
+                        },
+                        "Mara's Kaleidoscope": {
+                            "wasFound": true
+                        },
+                        "Seraph's Hymn": {
+                            "wasFound": true
+                        },
+                        "Metalgrid": {
+                            "wasFound": true
+                        }
+                    }
+                },
+                "charms": {
+                    "all": {
+                        "Annihilus": {
+                            "wasFound": true
+                        },
+                        "Gheed's Fortune": {
+                            "wasFound": true
+                        },
+                        "Hellfire Torch": {
+                            "wasFound": true
+                        }
+                    }
+                },
+                "classes": {
+                    "amazon": {
+                        "Lycander's Aim": {
+                            "wasFound": true
+                        },
+                        "Titan's Revenge": {
+                            "wasFound": true
+                        },
+                        "Lycander's Flank": {
+                            "wasFound": true
+                        },
+                        "Blood Raven's Charge": {
+                            "wasFound": true
+                        },
+                        "Thunderstroke": {
+                            "wasFound": true
+                        },
+                        "Stoneraven": {
+                            "wasFound": true
+                        }
+                    },
+                    "assasin": {
+                        "Bartuc's Cut-Throat": {
+                            "wasFound": true
+                        },
+                        "Firelizard's Talons": {
+                            "wasFound": true
+                        },
+                        "Jade Talon": {
+                            "wasFound": true
+                        },
+                        "Shadow Killer": {
+                            "wasFound": true
+                        }
+                    },
+                    "barbarian": {
+                        "Arreat's Face": {
+                            "wasFound": true
+                        },
+                        "Demonhorn's Edge": {
+                            "wasFound": true
+                        },
+                        "Halaberd's Reign": {
+                            "wasFound": true
+                        },
+                        "Wolfhowl": {
+                            "wasFound": true
+                        }
+                    },
+                    "druid": {
+                        "Jalal's Mane": {
+                            "wasFound": true
+                        },
+                        "Cerebus' Bite": {
+                            "wasFound": true
+                        },
+                        "Ravenlore": {
+                            "wasFound": true
+                        },
+                        "Spirit Keeper": {
+                            "wasFound": true
+                        }
+                    },
+                    "necromancer": {
+                        "Homunculus": {
+                            "wasFound": true
+                        },
+                        "Boneflame": {
+                            "wasFound": true
+                        },
+                        "Darkforce Spawn": {
+                            "wasFound": true
+                        }
+                    },
+                    "paladin": {
+                        "Herald of Zakarum": {
+                            "wasFound": true
+                        },
+                        "Alma Negra": {
+                            "wasFound": true
+                        },
+                        "Dragonscale": {
+                            "wasFound": true
+                        }
+                    },
+                    "sorceress": {
+                        "The Oculus": {
+                            "wasFound": true
+                        },
+                        "Death's Fathom": {
+                            "wasFound": true
+                        },
+                        "Eschuta's Temper": {
+                            "wasFound": true
+                        }
+                    }
+                }
+            }
+        },
+        "sets": {
+            "Angelic Raiment": {
+                "Angelic Wings": {
+                    "wasFound": true
+                },
+                "Angelic Halo": {
+                    "wasFound": true
+                },
+                "Angelic Mantle": {
+                    "wasFound": true
+                },
+                "Angelic Sickle": {
+                    "wasFound": true
+                }
+            },
+            "Arcanna's Tricks": {
+                "Arcanna's Sign": {
+                    "wasFound": true
+                },
+                "Arcanna's Head": {
+                    "wasFound": true
+                },
+                "Arcanna's Flesh": {
+                    "wasFound": true
+                },
+                "Arcanna's Deathwand": {
+                    "wasFound": true
+                }
+            },
+            "Arctic Gear": {
+                "Arctic Mitts": {
+                    "wasFound": true
+                },
+                "Arctic Binding": {
+                    "wasFound": true
+                },
+                "Arctic Furs": {
+                    "wasFound": true
+                },
+                "Arctic Horn": {
+                    "wasFound": true
+                }
+            },
+            "Berserker's Arsenal": {
+                "Berserker's Hatchet": {
+                    "wasFound": true
+                },
+                "Berserker's Hauberk": {
+                    "wasFound": true
+                },
+                "Berserker's Headgear": {
+                    "wasFound": true
+                }
+            },
+            "Cathan's Traps": {
+                "Cathan's Seal": {
+                    "wasFound": true
+                },
+                "Cathan's Sigil": {
+                    "wasFound": true
+                },
+                "Cathan's Visage": {
+                    "wasFound": true
+                },
+                "Cathan's Mesh": {
+                    "wasFound": true
+                },
+                "Cathan's Rule": {
+                    "wasFound": true
+                }
+            },
+            "Civerb's Vestments": {
+                "Civerb's Cudgel": {
+                    "wasFound": true
+                },
+                "Civerb's Ward": {
+                    "wasFound": true
+                },
+                "Civerb's Icon": {
+                    "wasFound": true
+                }
+            },
+            "Cleglaw's Brace": {
+                "Cleglaw's Tooth": {
+                    "wasFound": true
+                },
+                "Cleglaw's Claw": {
+                    "wasFound": true
+                },
+                "Cleglaw's Pincers": {
+                    "wasFound": true
+                }
+            },
+            "Death's Disguise": {
+                "Death's Touch": {
+                    "wasFound": true
+                },
+                "Death's Guard": {
+                    "wasFound": true
+                },
+                "Death's Hand": {
+                    "wasFound": true
+                }
+            },
+            "Hsaru's Defense": {
+                "Hsarus' Iron Stay": {
+                    "wasFound": true
+                },
+                "Hsarus' Iron Fist": {
+                    "wasFound": true
+                },
+                "Hsarus' Iron Heel": {
+                    "wasFound": true
+                }
+            },
+            "Infernal Tools": {
+                "Infernal Sign": {
+                    "wasFound": true
+                },
+                "Infernal Torch": {
+                    "wasFound": true
+                },
+                "Infernal Cranium": {
+                    "wasFound": true
+                }
+            },
+            "Iratha's Finery": {
+                "Iratha's Coil": {
+                    "wasFound": true
+                },
+                "Iratha's Cuff": {
+                    "wasFound": true
+                },
+                "Iratha's Cord": {
+                    "wasFound": true
+                },
+                "Iratha's Collar": {
+                    "wasFound": true
+                }
+            },
+            "Isenhart's Armory": {
+                "Isenhart's Lightbrand": {
+                    "wasFound": true
+                },
+                "Isenhart's Case": {
+                    "wasFound": true
+                },
+                "Isenhart's Horns": {
+                    "wasFound": true
+                },
+                "Isenhart's Parry": {
+                    "wasFound": true
+                }
+            },
+            "Milabrega's Regalia": {
+                "Milabrega's Rod": {
+                    "wasFound": true
+                },
+                "Milabrega's Robe": {
+                    "wasFound": true
+                },
+                "Milabrega's Diadem": {
+                    "wasFound": true
+                },
+                "Milabrega's Orb": {
+                    "wasFound": true
+                }
+            },
+            "Sigon's Complete Steel": {
+                "Sigon's Shelter": {
+                    "wasFound": true
+                },
+                "Sigon's Visor": {
+                    "wasFound": true
+                },
+                "Sigon's Guard": {
+                    "wasFound": true
+                },
+                "Sigon's Gage": {
+                    "wasFound": true
+                },
+                "Sigon's Sabot": {
+                    "wasFound": true
+                },
+                "Sigon's Wrap": {
+                    "wasFound": true
+                }
+            },
+            "Tancred's Battlegear": {
+                "Tancred's Skull": {
+                    "wasFound": true
+                },
+                "Tancred's Weird": {
+                    "wasFound": true
+                },
+                "Tancred's Hobnails": {
+                    "wasFound": true
+                },
+                "Tancred's Spine": {
+                    "wasFound": true
+                },
+                "Tancred's Crowbill": {
+                    "wasFound": true
+                }
+            },
+            "Vidala's Rig": {
+                "Vidala's Snare": {
+                    "wasFound": true
+                },
+                "Vidala's Ambush": {
+                    "wasFound": true
+                },
+                "Vidala's Fetlock": {
+                    "wasFound": true
+                },
+                "Vidala's Barb": {
+                    "wasFound": true
+                }
+            },
+            "Aldur's Watchtower": {
+                "Aldur's Rhythm": {
+                    "wasFound": true
+                },
+                "Aldur's Stony Gaze": {
+                    "wasFound": true
+                },
+                "Aldur's Deception": {
+                    "wasFound": true
+                },
+                "Aldur's Advance": {
+                    "wasFound": true
+                }
+            },
+            "Bul-Kathos' Children": {
+                "Bul-Kathos' Sacred Charge": {
+                    "wasFound": true
+                },
+                "Bul-Kathos' Tribal Guardian": {
+                    "wasFound": true
+                }
+            },
+            "Cow King's Leathers": {
+                "Cow King's Horns": {
+                    "wasFound": true
+                },
+                "Cow King's Hide": {
+                    "wasFound": true
+                },
+                "Cow King's Hooves": {
+                    "wasFound": true
+                }
+            },
+            "Griswold's Legacy": {
+                "Griswold's Redemption": {
+                    "wasFound": true
+                },
+                "Griswold's Valor": {
+                    "wasFound": true
+                },
+                "Griswold's Heart": {
+                    "wasFound": true
+                },
+                "Griswold's Honor": {
+                    "wasFound": true
+                }
+            },
+            "Heaven's Brethren": {
+                "Dangoon's Teaching": {
+                    "wasFound": true
+                },
+                "Haemosu's Adamant": {
+                    "wasFound": true
+                },
+                "Taebaek's Glory": {
+                    "wasFound": true
+                },
+                "Ondal's Almighty": {
+                    "wasFound": true
+                }
+            },
+            "Hwanin's Majesty": {
+                "Hwanin's Justice": {
+                    "wasFound": true
+                },
+                "Hwanin's Refuge": {
+                    "wasFound": true
+                },
+                "Hwanin's Splendor": {
+                    "wasFound": true
+                },
+                "Hwanin's Blessing": {
+                    "wasFound": true
+                }
+            },
+            "Immortal King": {
+                "Immortal King's Stone Crusher": {
+                    "wasFound": true
+                },
+                "Immortal King's Will": {
+                    "wasFound": true
+                },
+                "Immortal King's Soul Cage": {
+                    "wasFound": true
+                },
+                "Immortal King's Detail": {
+                    "wasFound": true
+                },
+                "Immortal King's Forge": {
+                    "wasFound": true
+                },
+                "Immortal King's Pillar": {
+                    "wasFound": true
+                }
+            },
+            "M'avina's Battle Hymn": {
+                "M'avina's Caster": {
+                    "wasFound": true
+                },
+                "M'avina's Embrace": {
+                    "wasFound": true
+                },
+                "M'avina's True Sight": {
+                    "wasFound": true
+                },
+                "M'avina's Tenet": {
+                    "wasFound": true
+                },
+                "M'avina's Icy Clutch": {
+                    "wasFound": true
+                }
+            },
+            "Naj's Ancient Vestige": {
+                "Naj's Circlet": {
+                    "wasFound": true
+                },
+                "Naj's Light Plate": {
+                    "wasFound": true
+                },
+                "Naj's Puzzler": {
+                    "wasFound": true
+                }
+            },
+            "Natalya's Odium": {
+                "Natalya's Mark": {
+                    "wasFound": true
+                },
+                "Natalya's Shadow": {
+                    "wasFound": true
+                },
+                "Natalya's Totem": {
+                    "wasFound": true
+                },
+                "Natalya's Soul": {
+                    "wasFound": true
+                }
+            },
+            "Orphan's Call": {
+                "Whitstan's Guard": {
+                    "wasFound": true
+                },
+                "Guillaume's Face": {
+                    "wasFound": true
+                },
+                "Wilhelm's Pride": {
+                    "wasFound": true
+                },
+                "Magnus' Skin": {
+                    "wasFound": true
+                }
+            },
+            "Sander's Folly": {
+                "Sander's Superstition": {
+                    "wasFound": true
+                },
+                "Sander's Paragon": {
+                    "wasFound": true
+                },
+                "Sander's Taboo": {
+                    "wasFound": true
+                },
+                "Sander's Riprap": {
+                    "wasFound": true
+                }
+            },
+            "Sazabi's Grand Tribute": {
+                "Sazabi's Cobalt Redeemer": {
+                    "wasFound": true
+                },
+                "Sazabi's Ghost Liberator": {
+                    "wasFound": true
+                },
+                "Sazabi's Mental Sheath": {
+                    "wasFound": true
+                }
+            },
+            "Tal Rasha's Wrappings": {
+                "Tal Rasha's Adjudication": {
+                    "wasFound": true
+                },
+                "Tal Rasha's Lidless Eye": {
+                    "wasFound": true
+                },
+                "Tal Rasha's Guardianship": {
+                    "wasFound": true
+                },
+                "Tal Rasha's Horadric Crest": {
+                    "wasFound": true
+                },
+                "Tal Rasha's Fine Spun Cloth": {
+                    "wasFound": true
+                }
+            },
+            "The Disciple": {
+                "Dark Adherent": {
+                    "wasFound": true
+                },
+                "Credendum": {
+                    "wasFound": true
+                },
+                "Laying of Hands": {
+                    "wasFound": true
+                },
+                "Rite of Passage": {
+                    "wasFound": true
+                },
+                "Telling of Beads": {
+                    "wasFound": true
+                }
+            },
+            "Trang-Oul's Avatar": {
+                "Trang-Oul's Guise": {
+                    "wasFound": true
+                },
+                "Trang-Oul's Scales": {
+                    "wasFound": true
+                },
+                "Trang-Oul's Girth": {
+                    "wasFound": true
+                },
+                "Trang-Oul's Claws": {
+                    "wasFound": true
+                },
+                "Trang-Oul's Wing": {
+                    "wasFound": true
+                }
+            }
+        }
+    },
+    "ethGrail": {
+        "uniques": {
+            "armor": {
+                "chest": {
+                    "normal": {
+                        "Greyform": {
+                            "wasFound": true
+                        },
+                        "Blinkbat's Form": {
+                            "wasFound": true
+                        },
+                        "The Centurion": {
+                            "wasFound": true
+                        },
+                        "Twitchthroe": {
+                            "wasFound": true
+                        },
+                        "Darkglow": {
+                            "wasFound": true
+                        },
+                        "Hawkmail": {
+                            "wasFound": true
+                        },
+                        "Venom Ward": {
+                            "wasFound": true
+                        },
+                        "Sparking Mail": {
+                            "wasFound": true
+                        },
+                        "Iceblink": {
+                            "wasFound": true
+                        },
+                        "Heavenly Garb": {
+                            "wasFound": true
+                        },
+                        "Rockfleece": {
+                            "wasFound": true
+                        },
+                        "Boneflesh": {
+                            "wasFound": true
+                        },
+                        "Rattlecage": {
+                            "wasFound": true
+                        },
+                        "Goldskin": {
+                            "wasFound": true
+                        },
+                        "Silks of the Victor": {
+                            "wasFound": true
+                        }
+                    },
+                    "exceptional": {
+                        "The Spirit Shroud": {
+                            "wasFound": true
+                        },
+                        "Skin of the Vipermagi": {
+                            "wasFound": true
+                        },
+                        "Skin of the Flayed One": {
+                            "wasFound": true
+                        },
+                        "Iron Pelt": {
+                            "wasFound": true
+                        },
+                        "Crow Caw": {
+                            "wasFound": true
+                        },
+                        "Spirit Forge": {
+                            "wasFound": true
+                        },
+                        "Duriel's Shell": {
+                            "wasFound": true
+                        },
+                        "Shaftstop": {
+                            "wasFound": true
+                        },
+                        "Skullder's Ire": {
+                            "wasFound": true
+                        },
+                        "Que-Hegan's Wisdom": {
+                            "wasFound": true
+                        },
+                        "Toothrow": {
+                            "wasFound": true
+                        },
+                        "Guardian Angel": {
+                            "wasFound": true
+                        },
+                        "Atma's Wail": {
+                            "wasFound": true
+                        },
+                        "Black Hades": {
+                            "wasFound": true
+                        },
+                        "Corpsemourn": {
+                            "wasFound": true
+                        }
+                    },
+                    "elite": {
+                        "Ormus' Robes": {
+                            "wasFound": true
+                        },
+                        "The Gladiator's Bane": {
+                            "wasFound": true
+                        },
+                        "Arkaine's Valor": {
+                            "wasFound": true
+                        },
+                        "Steel Carapace": {
+                            "wasFound": true
+                        },
+                        "Templar's Might": {
+                            "wasFound": true
+                        }
+                    }
+                },
+                "helm": {
+                    "normal": {
+                        "Biggin's Bonnet": {
+                            "wasFound": true
+                        },
+                        "Tarnhelm": {
+                            "wasFound": true
+                        },
+                        "Coif of Glory": {
+                            "wasFound": true
+                        },
+                        "Duskdeep": {
+                            "wasFound": true
+                        },
+                        "Wormskull": {
+                            "wasFound": true
+                        },
+                        "Howltusk": {
+                            "wasFound": true
+                        },
+                        "Undead Crown": {
+                            "wasFound": true
+                        },
+                        "The Face of Horror": {
+                            "wasFound": true
+                        }
+                    },
+                    "exceptional": {
+                        "Peasant Crown": {
+                            "wasFound": true
+                        },
+                        "Rockstopper": {
+                            "wasFound": true
+                        },
+                        "Stealskull": {
+                            "wasFound": true
+                        },
+                        "Darksight Helm": {
+                            "wasFound": true
+                        },
+                        "Vampire Gaze": {
+                            "wasFound": true
+                        },
+                        "Valkyrie Wing": {
+                            "wasFound": true
+                        },
+                        "Crown of Thieves": {
+                            "wasFound": true
+                        },
+                        "Blackhorn's Face": {
+                            "wasFound": true
+                        }
+                    },
+                    "elite": {
+                        "Andariel's Visage": {
+                            "wasFound": true
+                        },
+                        "Giant Skull": {
+                            "wasFound": true
+                        },
+                        "Harlequin Crest": {
+                            "wasFound": true
+                        },
+                        "Nightwing's Veil": {
+                            "wasFound": true
+                        },
+                        "Steel Shade": {
+                            "wasFound": true
+                        },
+                        "Veil of Steel": {
+                            "wasFound": true
+                        }
+                    }
+                },
+                "circlet": {
+                    "elite": {
+                        "Kira's Guardian": {
+                            "wasFound": true
+                        },
+                        "Griffon's Eye": {
+                            "wasFound": true
+                        }
+                    }
+                },
+                "gloves": {
+                    "normal": {
+                        "The Hand of Broc": {
+                            "wasFound": true
+                        },
+                        "Bloodfist": {
+                            "wasFound": true
+                        },
+                        "Chance Guards": {
+                            "wasFound": true
+                        },
+                        "Magefist": {
+                            "wasFound": true
+                        },
+                        "Frostburn": {
+                            "wasFound": true
+                        }
+                    },
+                    "exceptional": {
+                        "Venom Grip": {
+                            "wasFound": true
+                        },
+                        "Gravepalm": {
+                            "wasFound": true
+                        },
+                        "Ghoulhide": {
+                            "wasFound": true
+                        },
+                        "Lava Gout": {
+                            "wasFound": true
+                        },
+                        "Hellmouth": {
+                            "wasFound": true
+                        }
+                    },
+                    "elite": {
+                        "Dracul's Grasp": {
+                            "wasFound": true
+                        },
+                        "Soul Drainer": {
+                            "wasFound": true
+                        },
+                        "Steelrend": {
+                            "wasFound": true
+                        }
+                    }
+                },
+                "belts": {
+                    "normal": {
+                        "Lenymo": {
+                            "wasFound": true
+                        },
+                        "Snakecord": {
+                            "wasFound": true
+                        },
+                        "Nightsmoke": {
+                            "wasFound": true
+                        },
+                        "Goldwrap": {
+                            "wasFound": true
+                        },
+                        "Bladebuckle": {
+                            "wasFound": true
+                        }
+                    },
+                    "exceptional": {
+                        "String of Ears": {
+                            "wasFound": true
+                        },
+                        "Razortail": {
+                            "wasFound": true
+                        },
+                        "Gloom's Trap": {
+                            "wasFound": true
+                        },
+                        "Snowclash": {
+                            "wasFound": true
+                        },
+                        "Thundergod's Vigor": {
+                            "wasFound": true
+                        }
+                    },
+                    "elite": {
+                        "Arachnid Mesh": {
+                            "wasFound": true
+                        },
+                        "Nosferatu's Coil": {
+                            "wasFound": true
+                        },
+                        "Verdungo's Hearty Cord": {
+                            "wasFound": true
+                        }
+                    }
+                },
+                "boots": {
+                    "normal": {
+                        "Hotspur": {
+                            "wasFound": true
+                        },
+                        "Gorefoot": {
+                            "wasFound": true
+                        },
+                        "Treads of Cthon": {
+                            "wasFound": true
+                        },
+                        "Goblin Toe": {
+                            "wasFound": true
+                        },
+                        "Tearhaunch": {
+                            "wasFound": true
+                        }
+                    },
+                    "exceptional": {
+                        "Infernostride": {
+                            "wasFound": true
+                        },
+                        "Waterwalk": {
+                            "wasFound": true
+                        },
+                        "Silkweave": {
+                            "wasFound": true
+                        },
+                        "War Traveler": {
+                            "wasFound": true
+                        },
+                        "Gore Rider": {
+                            "wasFound": true
+                        }
+                    },
+                    "elite": {
+                        "Marrowwalk": {
+                            "wasFound": true
+                        },
+                        "Sandstorm Trek": {
+                            "wasFound": true
+                        },
+                        "Shadow Dancer": {
+                            "wasFound": true
+                        }
+                    }
+                },
+                "shields": {
+                    "normal": {
+                        "Pelta Lunata": {
+                            "wasFound": true
+                        },
+                        "Umbral Disk": {
+                            "wasFound": true
+                        },
+                        "Stormguild": {
+                            "wasFound": true
+                        },
+                        "Swordback Hold": {
+                            "wasFound": true
+                        },
+                        "Steelclash": {
+                            "wasFound": true
+                        },
+                        "Wall of the Eyeless": {
+                            "wasFound": true
+                        },
+                        "Bverrit Keep": {
+                            "wasFound": true
+                        },
+                        "The Ward": {
+                            "wasFound": true
+                        }
+                    },
+                    "exceptional": {
+                        "Visceratuant": {
+                            "wasFound": true
+                        },
+                        "Moser's Blessed Circle": {
+                            "wasFound": true
+                        },
+                        "Stormchaser": {
+                            "wasFound": true
+                        },
+                        "Lance Guard": {
+                            "wasFound": true
+                        },
+                        "Tiamat's Rebuke": {
+                            "wasFound": true
+                        },
+                        "Lidless Wall": {
+                            "wasFound": true
+                        },
+                        "Gerke's Sanctuary": {
+                            "wasFound": true
+                        },
+                        "Radament's Sphere": {
+                            "wasFound": true
+                        }
+                    },
+                    "elite": {
+                        "Blackoak Shield": {
+                            "wasFound": true
+                        },
+                        "Head Hunter's Glory": {
+                            "wasFound": true
+                        },
+                        "Medusa's Gaze": {
+                            "wasFound": true
+                        },
+                        "Spike Thorn": {
+                            "wasFound": true
+                        },
+                        "Spirit Ward": {
+                            "wasFound": true
+                        }
+                    }
+                }
+            },
+            "weapons": {
+                "axe (1-h)": {
+                    "normal": {
+                        "The Gnasher": {
+                            "wasFound": true
+                        },
+                        "Deathspade": {
+                            "wasFound": true
+                        },
+                        "Bladebone": {
+                            "wasFound": true
+                        },
+                        "Skull Splitter": {
+                            "wasFound": true
+                        },
+                        "Rakescar": {
+                            "wasFound": true
+                        }
+                    },
+                    "exceptional": {
+                        "Coldkill": {
+                            "wasFound": true
+                        },
+                        "Islestrike": {
+                            "wasFound": true
+                        },
+                        "Pompeii's Wrath": {
+                            "wasFound": true
+                        },
+                        "Guardian Naga": {
+                            "wasFound": true
+                        }
+                    },
+                    "elite": {
+                        "Razor's Edge": {
+                            "wasFound": true
+                        },
+                        "Rune Master": {
+                            "wasFound": true
+                        },
+                        "Cranebeak": {
+                            "wasFound": true
+                        },
+                        "Death Cleaver": {
+                            "wasFound": true
+                        }
+                    }
+                },
+                "axe (2-h)": {
+                    "normal": {
+                        "Axe of Fechmar": {
+                            "wasFound": true
+                        },
+                        "Goreshovel": {
+                            "wasFound": true
+                        },
+                        "The Chieftain": {
+                            "wasFound": true
+                        },
+                        "Brainhew": {
+                            "wasFound": true
+                        },
+                        "Humongous": {
+                            "wasFound": true
+                        }
+                    },
+                    "exceptional": {
+                        "Warlord's Trust": {
+                            "wasFound": true
+                        },
+                        "Spellsteel": {
+                            "wasFound": true
+                        },
+                        "Stormrider": {
+                            "wasFound": true
+                        },
+                        "Boneslayer Blade": {
+                            "wasFound": true
+                        },
+                        "The Minotaur": {
+                            "wasFound": true
+                        }
+                    },
+                    "elite": {
+                        "Hellslayer": {
+                            "wasFound": true
+                        },
+                        "Messerschmidt's Reaver": {
+                            "wasFound": true
+                        },
+                        "Executioner's Justice": {
+                            "wasFound": true
+                        },
+                        "Ethereal Edge": {
+                            "wasFound": true
+                        }
+                    }
+                },
+                "dagger": {
+                    "normal": {
+                        "Gull": {
+                            "wasFound": true
+                        },
+                        "The Diggler": {
+                            "wasFound": true
+                        },
+                        "The Jade Tan Do": {
+                            "wasFound": true
+                        },
+                        "Spectral Shard": {
+                            "wasFound": true
+                        }
+                    },
+                    "exceptional": {
+                        "Spineripper": {
+                            "wasFound": true
+                        },
+                        "Heart Carver": {
+                            "wasFound": true
+                        },
+                        "Blackbog's Sharp": {
+                            "wasFound": true
+                        },
+                        "Stormspike": {
+                            "wasFound": true
+                        }
+                    },
+                    "elite": {
+                        "Fleshripper": {
+                            "wasFound": true
+                        },
+                        "Ghostflame": {
+                            "wasFound": true
+                        }
+                    }
+                },
+                "clubs (1-h)": {
+                    "normal": {
+                        "Felloak": {
+                            "wasFound": true
+                        },
+                        "Stoutnail": {
+                            "wasFound": true
+                        },
+                        "Crushflange": {
+                            "wasFound": true
+                        },
+                        "Bloodrise": {
+                            "wasFound": true
+                        },
+                        "The General's Tan Do Li Ga": {
+                            "wasFound": true
+                        },
+                        "Ironstone": {
+                            "wasFound": true
+                        }
+                    },
+                    "exceptional": {
+                        "Dark Clan Crusher": {
+                            "wasFound": true
+                        },
+                        "Fleshrender": {
+                            "wasFound": true
+                        },
+                        "Sureshrill Frost": {
+                            "wasFound": true
+                        },
+                        "Moonfall": {
+                            "wasFound": true
+                        },
+                        "Baezil's Vortex": {
+                            "wasFound": true
+                        },
+                        "Earthshaker": {
+                            "wasFound": true
+                        }
+                    },
+                    "elite": {
+                        "Nord's Tenderizer": {
+                            "wasFound": true
+                        },
+                        "Baranar's Star": {
+                            "wasFound": true
+                        },
+                        "Demon Limb": {
+                            "wasFound": true
+                        },
+                        "Stormlash": {
+                            "wasFound": true
+                        },
+                        "Horizon's Tornado": {
+                            "wasFound": true
+                        },
+                        "Stone Crusher": {
+                            "wasFound": true
+                        }
+                    }
+                },
+                "clubs (2-h)": {
+                    "normal": {
+                        "Bonesnap": {
+                            "wasFound": true
+                        },
+                        "Steeldriver": {
+                            "wasFound": true
+                        }
+                    },
+                    "exceptional": {
+                        "Bloodtree Stump": {
+                            "wasFound": true
+                        }
+                    },
+                    "elite": {
+                        "Windhammer": {
+                            "wasFound": true
+                        },
+                        "Earth Shifter": {
+                            "wasFound": true
+                        }
+                    }
+                },
+                "polearms": {
+                    "normal": {
+                        "Dimoak's Hew": {
+                            "wasFound": true
+                        },
+                        "Steelgoad": {
+                            "wasFound": true
+                        },
+                        "Soul Harvest": {
+                            "wasFound": true
+                        },
+                        "The Battlebranch": {
+                            "wasFound": true
+                        },
+                        "Woestave": {
+                            "wasFound": true
+                        },
+                        "The Grim Reaper": {
+                            "wasFound": true
+                        }
+                    },
+                    "exceptional": {
+                        "The Meat Scraper": {
+                            "wasFound": true
+                        },
+                        "Blackleach Blade": {
+                            "wasFound": true
+                        },
+                        "Athena's Wrath": {
+                            "wasFound": true
+                        },
+                        "Pierre Tombale Couant": {
+                            "wasFound": true
+                        },
+                        "Husoldal Evo": {
+                            "wasFound": true
+                        },
+                        "Grim's Burning Dead": {
+                            "wasFound": true
+                        }
+                    },
+                    "elite": {
+                        "Bonehew": {
+                            "wasFound": true
+                        },
+                        "The Reaper's Toll": {
+                            "wasFound": true
+                        },
+                        "Tomb Reaver": {
+                            "wasFound": true
+                        }
+                    }
+                },
+                "scepters": {
+                    "normal": {
+                        "Knell Striker": {
+                            "wasFound": true
+                        },
+                        "Rusthandle": {
+                            "wasFound": true
+                        },
+                        "Stormeye": {
+                            "wasFound": true
+                        }
+                    },
+                    "exceptional": {
+                        "Zakarum's Hand": {
+                            "wasFound": true
+                        },
+                        "The Fetid Sprinkler": {
+                            "wasFound": true
+                        },
+                        "Hand of Blessed Light": {
+                            "wasFound": true
+                        }
+                    },
+                    "elite": {
+                        "Astreon's Iron Ward": {
+                            "wasFound": true
+                        },
+                        "Heaven's Light": {
+                            "wasFound": true
+                        },
+                        "The Redeemer": {
+                            "wasFound": true
+                        }
+                    }
+                },
+                "spears": {
+                    "normal": {
+                        "The Dragon Chang": {
+                            "wasFound": true
+                        },
+                        "Razortine": {
+                            "wasFound": true
+                        },
+                        "Bloodthief": {
+                            "wasFound": true
+                        },
+                        "Lance of Yaggai": {
+                            "wasFound": true
+                        },
+                        "The Tannr Gorerod": {
+                            "wasFound": true
+                        }
+                    },
+                    "exceptional": {
+                        "The Impaler": {
+                            "wasFound": true
+                        },
+                        "Kelpie Snare": {
+                            "wasFound": true
+                        },
+                        "Soulfeast Tine": {
+                            "wasFound": true
+                        },
+                        "Hone Sundan": {
+                            "wasFound": true
+                        },
+                        "Spire of Honor": {
+                            "wasFound": true
+                        }
+                    },
+                    "elite": {
+                        "Arioc's Needle": {
+                            "wasFound": true
+                        },
+                        "Viperfork": {
+                            "wasFound": true
+                        }
+                    }
+                },
+                "staves": {
+                    "normal": {
+                        "Bane Ash": {
+                            "wasFound": true
+                        },
+                        "Serpent Lord": {
+                            "wasFound": true
+                        },
+                        "Spire of Lazarus": {
+                            "wasFound": true
+                        },
+                        "The Salamander": {
+                            "wasFound": true
+                        },
+                        "The Iron Jang Bong": {
+                            "wasFound": true
+                        }
+                    },
+                    "exceptional": {
+                        "Razorswitch": {
+                            "wasFound": true
+                        },
+                        "Ribcracker": {
+                            "wasFound": true
+                        },
+                        "Chromatic Ire": {
+                            "wasFound": true
+                        },
+                        "Warpspear": {
+                            "wasFound": true
+                        },
+                        "Skull Collector": {
+                            "wasFound": true
+                        }
+                    },
+                    "elite": {
+                        "Mang Song's Lesson": {
+                            "wasFound": true
+                        },
+                        "Ondal's Wisdom": {
+                            "wasFound": true
+                        }
+                    }
+                },
+                "swords (1-h)": {
+                    "normal": {
+                        "Rixot's Keen": {
+                            "wasFound": true
+                        },
+                        "Blood Crescent": {
+                            "wasFound": true
+                        },
+                        "Skewer of Krintiz": {
+                            "wasFound": true
+                        },
+                        "Gleamscythe": {
+                            "wasFound": true
+                        },
+                        "Griswold's Edge": {
+                            "wasFound": true
+                        },
+                        "Hellplague": {
+                            "wasFound": true
+                        },
+                        "Culwen's Point": {
+                            "wasFound": true
+                        }
+                    },
+                    "exceptional": {
+                        "Bloodletter": {
+                            "wasFound": true
+                        },
+                        "Coldsteel Eye": {
+                            "wasFound": true
+                        },
+                        "Hexfire": {
+                            "wasFound": true
+                        },
+                        "Blade of Ali Baba": {
+                            "wasFound": true
+                        },
+                        "Ginther's Rift": {
+                            "wasFound": true
+                        },
+                        "Headstriker": {
+                            "wasFound": true
+                        },
+                        "Plague Bearer": {
+                            "wasFound": true
+                        },
+                        "The Atlantean": {
+                            "wasFound": true
+                        }
+                    },
+                    "elite": {
+                        "Bloodmoon": {
+                            "wasFound": true
+                        },
+                        "Djinn Slayer": {
+                            "wasFound": true
+                        },
+                        "Frostwind": {
+                            "wasFound": true
+                        }
+                    }
+                },
+                "swords (2-h)": {
+                    "normal": {
+                        "Shadowfang": {
+                            "wasFound": true
+                        },
+                        "Soulflay": {
+                            "wasFound": true
+                        },
+                        "Kinemil's Awl": {
+                            "wasFound": true
+                        },
+                        "Blacktongue": {
+                            "wasFound": true
+                        },
+                        "Ripsaw": {
+                            "wasFound": true
+                        },
+                        "The Patriarch": {
+                            "wasFound": true
+                        }
+                    },
+                    "exceptional": {
+                        "Crainte Vomir": {
+                            "wasFound": true
+                        },
+                        "Bing Sz Wang": {
+                            "wasFound": true
+                        },
+                        "The Vile Husk": {
+                            "wasFound": true
+                        },
+                        "Cloudcrack": {
+                            "wasFound": true
+                        },
+                        "Todesfaelle Flamme": {
+                            "wasFound": true
+                        },
+                        "Swordguard": {
+                            "wasFound": true
+                        }
+                    },
+                    "elite": {
+                        "Flamebellow": {
+                            "wasFound": true
+                        }
+                    }
+                },
+                "wands": {
+                    "normal": {
+                        "Torch of Iro": {
+                            "wasFound": true
+                        },
+                        "Maelstrom": {
+                            "wasFound": true
+                        },
+                        "Gravenspine": {
+                            "wasFound": true
+                        },
+                        "Ume's Lament": {
+                            "wasFound": true
+                        }
+                    },
+                    "exceptional": {
+                        "Suicide Branch": {
+                            "wasFound": true
+                        },
+                        "Carin Shard": {
+                            "wasFound": true
+                        },
+                        "Arm of King Leoric": {
+                            "wasFound": true
+                        },
+                        "Blackhand Key": {
+                            "wasFound": true
+                        }
+                    },
+                    "elite": {
+                        "Boneshade": {
+                            "wasFound": true
+                        },
+                        "Death's Web": {
+                            "wasFound": true
+                        }
+                    }
+                },
+                "throwing": {
+                    "exceptional": {
+                        "Deathbit": {
+                            "wasFound": true
+                        },
+                        "The Scalper": {
+                            "wasFound": true
+                        }
+                    },
+                    "elite": {
+                        "Gimmershred": {
+                            "wasFound": true
+                        },
+                        "Lacerator": {
+                            "wasFound": true
+                        },
+                        "Warshrike": {
+                            "wasFound": true
+                        },
+                        "Demon's Arch": {
+                            "wasFound": true
+                        },
+                        "Gargoyle's Bite": {
+                            "wasFound": true
+                        },
+                        "Wraith Flight": {
+                            "wasFound": true
+                        }
+                    }
+                }
+            },
+            "other": {
+                "classes": {
+                    "amazon": {
+                        "Titan's Revenge": {
+                            "wasFound": true
+                        },
+                        "Lycander's Flank": {
+                            "wasFound": true
+                        },
+                        "Thunderstroke": {
+                            "wasFound": true
+                        },
+                        "Stoneraven": {
+                            "wasFound": true
+                        }
+                    },
+                    "assasin": {
+                        "Bartuc's Cut-Throat": {
+                            "wasFound": true
+                        },
+                        "Firelizard's Talons": {
+                            "wasFound": true
+                        },
+                        "Jade Talon": {
+                            "wasFound": true
+                        },
+                        "Shadow Killer": {
+                            "wasFound": true
+                        }
+                    },
+                    "barbarian": {
+                        "Arreat's Face": {
+                            "wasFound": true
+                        },
+                        "Demonhorn's Edge": {
+                            "wasFound": true
+                        },
+                        "Halaberd's Reign": {
+                            "wasFound": true
+                        },
+                        "Wolfhowl": {
+                            "wasFound": true
+                        }
+                    },
+                    "druid": {
+                        "Jalal's Mane": {
+                            "wasFound": true
+                        },
+                        "Cerebus' Bite": {
+                            "wasFound": true
+                        },
+                        "Ravenlore": {
+                            "wasFound": true
+                        },
+                        "Spirit Keeper": {
+                            "wasFound": true
+                        }
+                    },
+                    "necromancer": {
+                        "Homunculus": {
+                            "wasFound": true
+                        },
+                        "Boneflame": {
+                            "wasFound": true
+                        },
+                        "Darkforce Spawn": {
+                            "wasFound": true
+                        }
+                    },
+                    "paladin": {
+                        "Herald of Zakarum": {
+                            "wasFound": true
+                        },
+                        "Alma Negra": {
+                            "wasFound": true
+                        },
+                        "Dragonscale": {
+                            "wasFound": true
+                        }
+                    },
+                    "sorceress": {
+                        "The Oculus": {
+                            "wasFound": true
+                        },
+                        "Death's Fathom": {
+                            "wasFound": true
+                        },
+                        "Eschuta's Temper": {
+                            "wasFound": true
+                        }
+                    }
+                }
+            }
+        }
+    },
+    
+    "password": "",
+    "token": ""
+}

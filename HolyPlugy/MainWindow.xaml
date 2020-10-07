@@ -1,0 +1,23 @@
+﻿<Window x:Class="HolyPlugy.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HolyPlugy"
+        mc:Ignorable="d"
+        Title="Frescosteve's DII Auto Holy Grail Logger!" Height="340" Width="715">
+    <Grid>
+        <TextBox x:Name="txtOutput" Margin="10,82,10,29" TextWrapping="Wrap" VerticalScrollBarVisibility="Visible"
+        />
+        <TextBox x:Name="txtUser" Margin="150,16,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" HorizontalAlignment="Left" Width="177" TextChanged="txtUser_TextChanged"/>
+        <PasswordBox x:Name="txtPassword" Margin="150,40,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" Width="177" PasswordChanged="txtPassword_PasswordChanged"/>
+        <Label Content="Username: " HorizontalAlignment="Left" Margin="56,9,0,0" VerticalAlignment="Top" Width="89"/>
+        <Label Content="Password:" HorizontalAlignment="Left" Margin="56,35,0,0" VerticalAlignment="Top" Width="89"/>
+        <Label Content="https://d2-holy-grail.herokuapp.com/" HorizontalAlignment="Left" Margin="135,55,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btSave" Content="Save" HorizontalAlignment="Left" Margin="342,15,0,0" VerticalAlignment="Top" Height="43" Width="92" Click="btSave_Click" IsEnabled="False"/>
+        <CheckBox x:Name="ckAutosave" Content="Auto Save" HorizontalAlignment="Left" Margin="470,16,0,0" VerticalAlignment="Top" Width="82" IsEnabled="False"/>
+        <Label x:Name="lblAutosaveTimer" Content="..." Margin="557,10,10,0" VerticalAlignment="Top"/>
+        <Slider x:Name="slider" Margin="448,48,10,0" Minimum="1" Maximum="100" Height="20" VerticalAlignment="Top" ValueChanged="slider_ValueChanged"/>
+        <Button x:Name="btRefresh" Content="Refresh" Margin="0,0,10,4" Click="btRefresh_Click" HorizontalAlignment="Right" Width="52" Height="20" VerticalAlignment="Bottom"/>
+    </Grid>
+</Window>

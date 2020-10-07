@@ -1,0 +1,41 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>Resources\favicon.ico</ApplicationIcon>
+    <Company>Woodworkz</Company>
+    <Description>Diablo 2 Holy Grail tracker - Reads the player stashes to find items, then tracks them and uploads direct to d2-holy-grail.herokuapp.com</Description>
+    <Copyright>Woodworkz</Copyright>
+    <PackageLicenseExpression>GNU v3</PackageLicenseExpression>
+    <PackageIcon>favicon.ico</PackageIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Resources\Gems.txt" />
+    <None Remove="Resources\HolyGrailSets.txt" />
+    <None Remove="Resources\HolyGrailUniques.txt" />
+    <None Remove="Resources\HolyMoly.txt" />
+    <None Remove="Resources\SetItems.txt" />
+    <None Remove="Resources\UniqueItems.txt" />
+    <None Include="Resources\favicon.ico">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\Gems.txt" />
+    <EmbeddedResource Include="Resources\HolyGrailSets.txt" />
+    <EmbeddedResource Include="Resources\HolyGrailUniques.txt" />
+    <EmbeddedResource Include="Resources\HolyMoly.txt" />
+    <EmbeddedResource Include="Resources\SetItems.txt" />
+    <EmbeddedResource Include="Resources\UniqueItems.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+  </ItemGroup>
+
+</Project>
