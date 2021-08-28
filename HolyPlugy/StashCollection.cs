@@ -14,7 +14,11 @@ namespace HolyPlugy
         }
         public void setStashes(List<Stash> stashes)
         {
-            this.stashes = stashes;
+            if (stashes == null) {
+                this.stashes = new List<Stash>();
+            } else {
+                this.stashes = stashes;
+            }
         }
         public String getFileName()
         {
