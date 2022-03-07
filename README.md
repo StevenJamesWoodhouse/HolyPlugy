@@ -14,7 +14,7 @@ Automatic upload to https://d2-holy-grail.herokuapp.com/ after providing login d
 Auto Save on timer - (do not forget that you'll need to "Save and Quit" within D2 before your files are updated).
 
 Usage:
-Simply download "HolyPlugy v1.0.zip", run the executable. The application will immediately attempt to read your user directory for save files.
+Simply download "HolyPlugy v1.1.zip", run the executable. The application will immediately attempt to read your user directory for save files.
 Enter your credentials and click save to upload!
 Visit http://d2-holy-grail.herokuapp.com to see your items tracked!
 
