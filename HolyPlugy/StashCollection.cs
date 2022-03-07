@@ -6,7 +6,7 @@ namespace HolyPlugy
 {
     class StashCollection
     {
-        private List<Stash> stashes;
+        private List<Stash> stashes = new List<Stash>();
         private String fileName;
         public List<Stash> getStashes()
         {

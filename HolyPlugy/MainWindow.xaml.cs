@@ -25,6 +25,8 @@ using System.Net;
 using System.Threading;
 using System.Timers;
 using DispatcherPriority = System.Windows.Threading.DispatcherPriority;
+using Microsoft.Win32;
+using Microsoft.WindowsAPICodePack.Dialogs;
 
 namespace HolyPlugy
 {
@@ -41,6 +43,9 @@ namespace HolyPlugy
         public MainWindow()
         {
             InitializeComponent();
+
+            txtSaveDIR.Text = Properties.Settings.Default.D2Save.ToString();
+
             SetTimer();
 
             MainFunction();
@@ -133,14 +138,25 @@ namespace HolyPlugy
 
         private  String getSaveDirectoryFromProperties()
         {
-            string path = Directory.GetParent(Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData))
-                .FullName;
-            if (Environment.OSVersion.Version.Major >= 6)
+
+            if(Properties.Settings.Default.D2Save != null && Properties.Settings.Default.D2Save != String.Empty)
             {
-                path = Directory.GetParent(path).ToString();
+                txtSaveDIR.Text = Properties.Settings.Default.D2Save;
             }
 
-            return path + @"\Saved Games\Diablo II";
+            if (txtSaveDIR.Text == String.Empty)
+            {
+                txtSaveDIR.Text = Directory.GetParent(Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData))
+                .FullName + @"\Saved Games\Diablo II";
+
+                if (Environment.OSVersion.Version.Major >= 6)
+                {
+                    txtSaveDIR.Text = Directory.GetParent(Directory.GetParent(Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData))
+                .FullName).ToString() + @"\Saved Games\Diablo II";
+                }
+            }       
+            
+            return txtSaveDIR.Text;
         }
         
         public static string GetJsonPropertyNameOrDefault(Type type, string propertyName)
@@ -795,16 +811,23 @@ namespace HolyPlugy
 
             IEnumerable<string> files = Directory.EnumerateFiles(saveDirectory, "*.d2s", SearchOption.AllDirectories);
 
-            if (files != null)
+            try
             {
-                foreach (string character in files)
+                if (files != null)
                 {
-                    string fileName = Path.GetFileName(character);
-                    Log("Parsing " + fileName);
-                    PlayerCharacter playerCharacter = getCharacterData(character);
-                    playerCharacter.setFileName(fileName);
-                    playerCharacters.Add(playerCharacter);
+                    foreach (string character in files)
+                    {
+                        string fileName = Path.GetFileName(character);
+                        Log("Parsing " + fileName);
+                        PlayerCharacter playerCharacter = getCharacterData(character);
+                        playerCharacter.setFileName(fileName);
+                        playerCharacters.Add(playerCharacter);
+                    }
                 }
+            }
+                catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message, "Error", MessageBoxButton.OK, MessageBoxImage.Error);
             }
             return playerCharacters;
         }
@@ -1204,19 +1227,26 @@ namespace HolyPlugy
 
             IEnumerable<string> files = Directory.EnumerateFiles(saveDirectory, "*.d2x", SearchOption.AllDirectories);
 
-            if (files != null)
+            try
             {
-                foreach (string stash in files)
+                if (files != null)
                 {
-                    string fileName = Path.GetFileName(stash);
+                    foreach (string stash in files)
+                    {
+                        string fileName = Path.GetFileName(stash);
 
-                    Log("Parsing " + fileName);
-                    List<Stash> personalStash = getStashesFromFile(stash);
-                    StashCollection personalStashCollection = new StashCollection();
-                    personalStashCollection.setStashes(personalStash);
-                    personalStashCollection.setFileName(fileName);
-                    stashCollections.Add(personalStashCollection);
+                        Log("Parsing " + fileName);
+                        List<Stash> personalStash = getStashesFromFile(stash);
+                        StashCollection personalStashCollection = new StashCollection();
+                        personalStashCollection.setStashes(personalStash);
+                        personalStashCollection.setFileName(fileName);
+                        stashCollections.Add(personalStashCollection);
+                    }
                 }
+            }
+            catch(Exception ex)
+            {
+                MessageBox.Show(ex.Message,"Error",MessageBoxButton.OK,MessageBoxImage.Error);
             }
 
             return stashCollections;
@@ -1277,7 +1307,7 @@ namespace HolyPlugy
                 Log(e.Message);
             }
 
-            return null;
+            return new List<Stash>();
         }
 
         private  List<Stash> getStashesFromData(byte[] data, int nbStash, int startStashIndex)
@@ -1405,8 +1435,39 @@ namespace HolyPlugy
 
         private void btRefresh_Click(object sender, RoutedEventArgs e)
         {
+            lblStatus.Content = "Refreshing...";
+
+            lblStatus.Dispatcher.Invoke(() => { }, DispatcherPriority.Render);
+
             txtOutput.Text = "";
             MainFunction();
+            lblStatus.Content = "Refresh complete.";
+        }
+
+        private void txtBrowse_Click(object sender, RoutedEventArgs e)
+        {
+       
+            var dlg = new CommonOpenFileDialog();
+            dlg.Title = "Select D2 Save Location";
+            dlg.IsFolderPicker = true;
+            dlg.InitialDirectory = txtSaveDIR.Text;
+
+            dlg.AddToMostRecentlyUsedList = false;
+            dlg.AllowNonFileSystemItems = false;
+            dlg.DefaultDirectory = txtSaveDIR.Text;
+            dlg.EnsureFileExists = true;
+            dlg.EnsurePathExists = true;
+            dlg.EnsureReadOnly = false;
+            dlg.EnsureValidNames = true;
+            dlg.Multiselect = false;
+            dlg.ShowPlacesList = true;
+
+            if (dlg.ShowDialog() == CommonFileDialogResult.Ok)
+            {
+                txtSaveDIR.Text = dlg.FileName;
+                Properties.Settings.Default.D2Save = txtSaveDIR.Text;
+                Properties.Settings.Default.Save();
+            }
         }
     }
 }
